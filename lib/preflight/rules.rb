@@ -1,3 +1,4 @@
+require 'preflight/rules/bookmarks'
 require 'preflight/rules/box_nesting'
 require 'preflight/rules/box_presence'
 require 'preflight/rules/compression_algorithms'

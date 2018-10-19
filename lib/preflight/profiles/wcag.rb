@@ -6,6 +6,7 @@ module Preflight
       profile_name "wcag"
 
       rule Preflight::Rules::NoAlt
+      rule Preflight::Rules::Bookmarks
 
     end
   end
