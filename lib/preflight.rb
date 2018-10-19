@@ -8,5 +8,5 @@ require 'preflight/rules'
 require 'preflight/profiles'
 
 module Preflight
-  VERSION = "0.0.6"
+  VERSION = "0.0.7"
 end
